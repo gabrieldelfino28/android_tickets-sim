@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tickets Show</string>
+    <string name="app_title">Tickets Sim</string>
+    <string name="outputActivity">Price Out</string>
+    <string name="funcVIP">Função VIP:</string>
+    <string name="btnCalc">Gerar</string>
+    <string name="btnBack">Voltar</string>
+    <string name="tvTipo">Selecione o tipo de Ingresso:</string>
+    <string name="rbCommon">Comum</string>
+    <string name="rbVIP">VIP</string>
+    <string name="outValue">%sPreço Final: %.2f</string>
+</resources>
